@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 
 .idea/
-.env.example/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -127,7 +127,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.env.example
 .venv
 env/
 venv/
